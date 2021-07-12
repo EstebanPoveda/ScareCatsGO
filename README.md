@@ -1,6 +1,7 @@
 # ScareCatsGO
 Versionado de app ScareCats
-  *assets
-  *apk de distribución
-  *apk original
-  *código C3 (construct 3)
+ 1- *assets
+ 2- *apk de distribución
+ 3- *apk original
+ 4- *projecto apache cordova para compilación
+ 5- *código en archivo comprimido c3p (construct 3)
